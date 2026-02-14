@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /mail.php
+Disallow: /feedback.txt
+
+Sitemap: https://m-zamok.ru/sitemap.xml
+Host: m-zamok.ru
+
